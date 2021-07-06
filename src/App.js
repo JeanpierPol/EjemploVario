@@ -3,6 +3,7 @@ import './App.css';
 
 function App() {
   console.log("Andress revisa esto xD")
+  console.log("Hola mundo JR")
   return (
     <div className="App">
       <header className="App-header">
